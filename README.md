@@ -1,9 +1,5 @@
-<h2 align="left">Opa, estou ingressando na carreira de desenvolvedor, aqui você pode ver melhor meu perfil...</h2>
-
-###
-
-<p>💻 Desenvolvedor <strong>Full - Stack</strong></p>
-<p>🔧 Técnico em Hardware</p>
+<h2>💻 Desenvolvedor <strong>Full - Stack</strong></h2>
+<h2>🔧 Técnico em Hardware</h2>
 
 ###
 

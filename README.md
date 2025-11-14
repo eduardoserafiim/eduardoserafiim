@@ -1,5 +1,10 @@
-<h2 align="left">Opa sou o Eduardo Serafim e estou ingressando na carreira de desenvolvedor.</h2>
+<h2 align="left">Opa, estou ingressando na carreira de desenvolvedor, aqui você pode ver melhor meu perfil...</h2>
 
+###
+
+<p>💻 Desenvolvedor <strong>Full - Stack</strong></p>
+<p>🔧 Técnico em Hardware</p>
+n
 ###
 
 <br clear="both">
@@ -10,10 +15,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardoserafiim&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false" height="300" alt="languages graph"  />
   
 </div>
-
-###
-
-<img align="right" height="150" src=""  />
 
 ###
 
@@ -51,11 +52,5 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/eduardoserafiim/eduardoserafiim/output/snake.svg" alt="Snake animation" />
 
 ###

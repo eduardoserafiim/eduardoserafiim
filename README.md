@@ -4,7 +4,7 @@
 
 <p>💻 Desenvolvedor <strong>Full - Stack</strong></p>
 <p>🔧 Técnico em Hardware</p>
-n
+
 ###
 
 <br clear="both">

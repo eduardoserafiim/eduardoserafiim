@@ -1,4 +1,4 @@
-<h2>💻 Desenvolvedor <strong>Full - Stack</strong></h2>
+<h2>💻 Desenvolvedor <strong>Full Stack</strong></h2>
 <h2>🔧 Técnico em Hardware</h2>
 
 ###

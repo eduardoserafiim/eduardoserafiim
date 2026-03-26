@@ -1,10 +1,10 @@
 <h2>💻 Desenvolvedor <strong>Full Stack</strong></h2>
-<p>Analista e Desenvolvedor de Sistemas</p>
-<p>Engenheiro de Software</p>
+<p><strong>Engenheiro de Software</strong></p>
+<p><strong>Analista e Desenvolvedor de Sistemas</strong></p>
 <p>Responsável pela criação de sistemas internos no Hospital Adventista do Pênfigo para Criação, Edição e Exclusão de Computadores para Levantamentos e Controles internos de inventário.</p>
 <p>Responsável pela criação da INTRANET, sistema interno para acesso de informações gerais que qualquer funcionário do Hospital Adventista do Pênfigo usa para navegar pela internet.</p>
 <h2>🔧 Técnico em Hardware</h2>
-<p>Redes de Computadores</p>
+<p><strong>Redes de Computadores</strong></p>
 <p>Mantenho e trago suporte à funcionários dentro do Hospital Adventista do Pênfigo para melhor eficiência. Mantenho assistência técnica de Hardware e Software  nos computadores.</p>
 ###
 

@@ -1,3 +1,7 @@
+<div>
+  <img href="https://pin.it/6TgmTQ5Vs" width="100%" />
+</div>
+
 <h2>💻 Desenvolvedor <strong>Full Stack</strong></h2>
 <p><strong>Engenheiro de Software</strong></p>
 <p><strong>Analista e Desenvolvedor de Sistemas</strong></p>

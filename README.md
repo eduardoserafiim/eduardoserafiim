@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/e5/9f/83/e59f83b69661e1e2b1346dfc1140f49e.jpg" width="100%" />
+  <img src="https://i.pinimg.com/originals/2e/3b/b7/2e3bb7bbc1297c4e04c0aefb738a6f5a.gif" width="100%" />
 </p>
 <h2>💻 Desenvolvedor <strong>Full Stack</strong></h2>
 <p><strong>Engenheiro de Software</strong></p>

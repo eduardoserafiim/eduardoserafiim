@@ -1,6 +1,6 @@
-<div>
-  <img href="https://pin.it/6TgmTQ5Vs" width="100%" />
-</div>
+<p align="center">
+  <img href="https://i.pinimg.com/736x/e5/9f/83/e59f83b69661e1e2b1346dfc1140f49e.jpg" width="100%" />
+</p>
 
 <h2>💻 Desenvolvedor <strong>Full Stack</strong></h2>
 <p><strong>Engenheiro de Software</strong></p>
